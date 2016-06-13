@@ -61,7 +61,8 @@ body {
 	clear: both;
 }
 .centered {text-align: center}
-.mt {margin-top: 50px;
+.mt {display: none;
+	margin-top: 50px;
 		width: 100%;
 		margin-left: 0;
 		margin-right: 0;

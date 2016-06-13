@@ -1,3 +1,11 @@
+$(document).ready(function(){
+    $('.mt').css('display','block');
+    console.log('LOADED');
+});
+
+
+
+
 (function($) {
 
 // prettyPhoto
